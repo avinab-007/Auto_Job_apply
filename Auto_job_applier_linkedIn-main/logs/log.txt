@@ -1,0 +1,165 @@
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Failed to create Chrome Session, retrying with guest profile
+Message: session not created: cannot connect to chrome at 127.0.0.1:49674
+from session not created: This version of ChromeDriver only supports Chrome version 148
+Current browser version is 147.0.7727.138
+Stacktrace:
+0   undetected_chromedriver             0x0000000103393658 undetected_chromedriver + 6854232
+1   undetected_chromedriver             0x000000010338acca undetected_chromedriver + 6819018
+2   undetected_chromedriver             0x0000000102d78a75 undetected_chromedriver + 453237
+3   undetected_chromedriver             0x0000000102dbcda9 undetected_chromedriver + 732585
+4   undetected_chromedriver             0x0000000102dbbbc1 undetected_chromedriver + 728001
+5   undetected_chromedriver             0x0000000102db0829 undetected_chromedriver + 682025
+6   undetected_chromedriver             0x0000000102e0160a undetected_chromedriver + 1013258
+7   undetected_chromedriver             0x0000000102e00ccc undetected_chromedriver + 1010892
+8   undetected_chromedriver             0x0000000102dbfed4 undetected_chromedriver + 745172
+9   undetected_chromedriver             0x0000000102dc0c81 undetected_chromedriver + 748673
+10  undetected_chromedriver             0x000000010334a357 undetected_chromedriver + 6554455
+11  undetected_chromedriver             0x000000010334e70f undetected_chromedriver + 6571791
+12  undetected_chromedriver             0x0000000103329faa undetected_chromedriver + 6422442
+13  undetected_chromedriver             0x000000010334f188 undetected_chromedriver + 6574472
+14  undetected_chromedriver             0x00000001033193c0 undetected_chromedriver + 6353856
+15  undetected_chromedriver             0x0000000103377918 undetected_chromedriver + 6740248
+16  undetected_chromedriver             0x0000000103377aac undetected_chromedriver + 6740652
+17  undetected_chromedriver             0x000000010338a8e1 undetected_chromedriver + 6818017
+18  libsystem_pthread.dylib             0x00007ff80c654d49 _pthread_start + 115
+19  libsystem_pthread.dylib             0x00007ff80c65082f thread_start + 15
+
+2026-05-02 09:57:52.316351
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Will login with a guest profile, browsing history will not be saved in the browser!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Failed to create Chrome Session, retrying with guest profile
+Message: session not created: cannot connect to chrome at 127.0.0.1:50380
+from session not created: This version of ChromeDriver only supports Chrome version 148
+Current browser version is 147.0.7727.138
+Stacktrace:
+0   undetected_chromedriver             0x000000010097f658 undetected_chromedriver + 6854232
+1   undetected_chromedriver             0x0000000100976cca undetected_chromedriver + 6819018
+2   undetected_chromedriver             0x0000000100364a75 undetected_chromedriver + 453237
+3   undetected_chromedriver             0x00000001003a8da9 undetected_chromedriver + 732585
+4   undetected_chromedriver             0x00000001003a7bc1 undetected_chromedriver + 728001
+5   undetected_chromedriver             0x000000010039c829 undetected_chromedriver + 682025
+6   undetected_chromedriver             0x00000001003ed60a undetected_chromedriver + 1013258
+7   undetected_chromedriver             0x00000001003ecccc undetected_chromedriver + 1010892
+8   undetected_chromedriver             0x00000001003abed4 undetected_chromedriver + 745172
+9   undetected_chromedriver             0x00000001003acc81 undetected_chromedriver + 748673
+10  undetected_chromedriver             0x0000000100936357 undetected_chromedriver + 6554455
+11  undetected_chromedriver             0x000000010093a70f undetected_chromedriver + 6571791
+12  undetected_chromedriver             0x0000000100915faa undetected_chromedriver + 6422442
+13  undetected_chromedriver             0x000000010093b188 undetected_chromedriver + 6574472
+14  undetected_chromedriver             0x00000001009053c0 undetected_chromedriver + 6353856
+15  undetected_chromedriver             0x0000000100963918 undetected_chromedriver + 6740248
+16  undetected_chromedriver             0x0000000100963aac undetected_chromedriver + 6740652
+17  undetected_chromedriver             0x00000001009768e1 undetected_chromedriver + 6818017
+18  libsystem_pthread.dylib             0x00007ff805550d49 _pthread_start + 115
+19  libsystem_pthread.dylib             0x00007ff80554c82f thread_start + 15
+
+2026-05-02 10:33:38.250570
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Will login with a guest profile, browsing history will not be saved in the browser!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Failed to create Chrome Session, retrying with guest profile
+Message: session not created: cannot connect to chrome at 127.0.0.1:50472
+from session not created: This version of ChromeDriver only supports Chrome version 148
+Current browser version is 147.0.7727.138
+Stacktrace:
+0   undetected_chromedriver             0x000000010357a658 undetected_chromedriver + 6854232
+1   undetected_chromedriver             0x0000000103571cca undetected_chromedriver + 6819018
+2   undetected_chromedriver             0x0000000102f5fa75 undetected_chromedriver + 453237
+3   undetected_chromedriver             0x0000000102fa3da9 undetected_chromedriver + 732585
+4   undetected_chromedriver             0x0000000102fa2bc1 undetected_chromedriver + 728001
+5   undetected_chromedriver             0x0000000102f97829 undetected_chromedriver + 682025
+6   undetected_chromedriver             0x0000000102fe860a undetected_chromedriver + 1013258
+7   undetected_chromedriver             0x0000000102fe7ccc undetected_chromedriver + 1010892
+8   undetected_chromedriver             0x0000000102fa6ed4 undetected_chromedriver + 745172
+9   undetected_chromedriver             0x0000000102fa7c81 undetected_chromedriver + 748673
+10  undetected_chromedriver             0x0000000103531357 undetected_chromedriver + 6554455
+11  undetected_chromedriver             0x000000010353570f undetected_chromedriver + 6571791
+12  undetected_chromedriver             0x0000000103510faa undetected_chromedriver + 6422442
+13  undetected_chromedriver             0x0000000103536188 undetected_chromedriver + 6574472
+14  undetected_chromedriver             0x00000001035003c0 undetected_chromedriver + 6353856
+15  undetected_chromedriver             0x000000010355e918 undetected_chromedriver + 6740248
+16  undetected_chromedriver             0x000000010355eaac undetected_chromedriver + 6740652
+17  undetected_chromedriver             0x00000001035718e1 undetected_chromedriver + 6818017
+18  libsystem_pthread.dylib             0x00007ff805550d49 _pthread_start + 115
+19  libsystem_pthread.dylib             0x00007ff80554c82f thread_start + 15
+
+2026-05-02 10:33:47.179726
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Will login with a guest profile, browsing history will not be saved in the browser!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Failed to create Chrome Session, retrying with guest profile
+Message: session not created: cannot connect to chrome at 127.0.0.1:50612
+from session not created: This version of ChromeDriver only supports Chrome version 148
+Current browser version is 147.0.7727.138
+Stacktrace:
+0   undetected_chromedriver             0x000000010071f658 undetected_chromedriver + 6854232
+1   undetected_chromedriver             0x0000000100716cca undetected_chromedriver + 6819018
+2   undetected_chromedriver             0x0000000100104a75 undetected_chromedriver + 453237
+3   undetected_chromedriver             0x0000000100148da9 undetected_chromedriver + 732585
+4   undetected_chromedriver             0x0000000100147bc1 undetected_chromedriver + 728001
+5   undetected_chromedriver             0x000000010013c829 undetected_chromedriver + 682025
+6   undetected_chromedriver             0x000000010018d60a undetected_chromedriver + 1013258
+7   undetected_chromedriver             0x000000010018cccc undetected_chromedriver + 1010892
+8   undetected_chromedriver             0x000000010014bed4 undetected_chromedriver + 745172
+9   undetected_chromedriver             0x000000010014cc81 undetected_chromedriver + 748673
+10  undetected_chromedriver             0x00000001006d6357 undetected_chromedriver + 6554455
+11  undetected_chromedriver             0x00000001006da70f undetected_chromedriver + 6571791
+12  undetected_chromedriver             0x00000001006b5faa undetected_chromedriver + 6422442
+13  undetected_chromedriver             0x00000001006db188 undetected_chromedriver + 6574472
+14  undetected_chromedriver             0x00000001006a53c0 undetected_chromedriver + 6353856
+15  undetected_chromedriver             0x0000000100703918 undetected_chromedriver + 6740248
+16  undetected_chromedriver             0x0000000100703aac undetected_chromedriver + 6740652
+17  undetected_chromedriver             0x00000001007168e1 undetected_chromedriver + 6818017
+18  libsystem_pthread.dylib             0x00007ff804ca8d49 _pthread_start + 115
+19  libsystem_pthread.dylib             0x00007ff804ca482f thread_start + 15
+
+2026-05-02 11:00:10.875171
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Will login with a guest profile, browsing history will not be saved in the browser!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Failed to create Chrome Session, retrying with guest profile
+Message: session not created: cannot connect to chrome at 127.0.0.1:50724
+from session not created: This version of ChromeDriver only supports Chrome version 148
+Current browser version is 147.0.7727.138
+Stacktrace:
+0   undetected_chromedriver             0x00000001014f7658 undetected_chromedriver + 6854232
+1   undetected_chromedriver             0x00000001014eecca undetected_chromedriver + 6819018
+2   undetected_chromedriver             0x0000000100edca75 undetected_chromedriver + 453237
+3   undetected_chromedriver             0x0000000100f20da9 undetected_chromedriver + 732585
+4   undetected_chromedriver             0x0000000100f1fbc1 undetected_chromedriver + 728001
+5   undetected_chromedriver             0x0000000100f14829 undetected_chromedriver + 682025
+6   undetected_chromedriver             0x0000000100f6560a undetected_chromedriver + 1013258
+7   undetected_chromedriver             0x0000000100f64ccc undetected_chromedriver + 1010892
+8   undetected_chromedriver             0x0000000100f23ed4 undetected_chromedriver + 745172
+9   undetected_chromedriver             0x0000000100f24c81 undetected_chromedriver + 748673
+10  undetected_chromedriver             0x00000001014ae357 undetected_chromedriver + 6554455
+11  undetected_chromedriver             0x00000001014b270f undetected_chromedriver + 6571791
+12  undetected_chromedriver             0x000000010148dfaa undetected_chromedriver + 6422442
+13  undetected_chromedriver             0x00000001014b3188 undetected_chromedriver + 6574472
+14  undetected_chromedriver             0x000000010147d3c0 undetected_chromedriver + 6353856
+15  undetected_chromedriver             0x00000001014db918 undetected_chromedriver + 6740248
+16  undetected_chromedriver             0x00000001014dbaac undetected_chromedriver + 6740652
+17  undetected_chromedriver             0x00000001014ee8e1 undetected_chromedriver + 6818017
+18  libsystem_pthread.dylib             0x00007ff805eecd49 _pthread_start + 115
+19  libsystem_pthread.dylib             0x00007ff805ee882f thread_start + 15
+
+2026-05-02 11:05:39.659026
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Will login with a guest profile, browsing history will not be saved in the browser!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
